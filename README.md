@@ -1,1 +1,3 @@
-Pure JavaScript slider
+# Pure JavaScript slider
+# HTML, CSS, JS
+
