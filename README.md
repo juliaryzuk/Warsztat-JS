@@ -1,3 +1,3 @@
-# Pure JavaScript slider
+# JavaScript slider
   HTML, CSS, JS
 
